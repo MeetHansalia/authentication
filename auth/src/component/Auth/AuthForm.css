@@ -14,18 +14,18 @@
     color: white;
   }
   
-  .control {
+  .controls {
     margin-bottom: 0.5rem;
   }
   
-  .control label {
+  .controls label {
     display: block;
     color: white;
     font-weight: bold;
     margin-bottom: 0.5rem;
   }
   
-  .control input {
+  .controls input {
     font: inherit;
     background-color: #f1e1fc;
     color: #38015c;
